@@ -4,3 +4,6 @@ Fiz uma alteração no ficheiro
 Alterações efetuadas no branch NovaFeature
 
 Mais uma alteração no novafeature
+
+alteraçao master
+
